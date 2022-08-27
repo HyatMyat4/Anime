@@ -1,0 +1,411 @@
+body{
+   margin: 0px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: #000090;
+display: none;
+}
+.Top-header{
+width: 100%;
+height: 80px;
+background-color: #000063ef;
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+.Font-Colour-white{
+   color:#90BCFE;
+ 
+}
+.Anime-com{
+    font-weight: 800;
+    font-size: 65px;    
+    user-select: none;
+}
+.top-head-img{
+   width: 140px;
+   height: auto;
+   margin-top: 16px;
+   transform: translateY(+4px);
+   user-select: none;
+}
+.Long-Anime-colour{
+   color: white;
+   font-size: 13px;
+   
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.nav{
+  width: 300px;
+ display: inline-block;
+ transform: translateY(-11px);
+}
+.Top-input{
+   width: 210px;
+   padding: 9px 10px;
+   border: none;
+  outline: none;
+}
+.Top-input:hover{
+ border-color: rgb(250, 189, 9);
+}
+::placeholder{
+   font-size: 16px;
+   color:  rgb(139, 139, 139);
+}
+input, textarea {
+   background-color:#004BE8;
+ }
+.searchButton{
+   padding: 8px 10px;
+   background-color: #004BE8;
+   border: none;
+   color: white;
+}
+.searchButton:hover{
+  background-color: #003BB5;
+}
+.Top-container-left{
+  min-width: 680px;
+   height: 80px;
+   margin-left: 16px;
+   
+}
+.is-Language{
+   color: white;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 14px;
+
+}
+.is-Language:hover{
+   color: yellow;
+}
+.Flag-width{
+   width: 20px;
+   height: auto;
+}
+.isButton-dowl:hover{
+   color: yellow;
+}
+.isButton-dowl{
+   margin-left: 5px;
+   
+}
+.Language-container{
+   
+   display: inline-block;
+   padding-right: 15px;
+}
+
+.Top-mid-container{
+   font-weight: 800;
+   font-size: 60px;
+   color: rgb(255, 255, 255);
+   opacity: 0.1;
+}
+
+.Second-Top-bar{
+   width: 100%;
+   height: 37px;
+   background-color: #004BE8;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.Menu-icon{
+  padding: 6px 8px;
+   color: white;
+font-size: 25px;
+background-color: rgba(255, 255, 255, 0.272);
+
+}
+.Menu-icon:hover{
+   background-color:#003CB9;
+}
+
+.second-bar-font{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: white;
+padding: 0px 10px;
+margin: 0px 5px;
+}
+.second-bar-font:hover{
+ color: yellow;
+border-bottom: 2.8px solid white;
+
+
+}
+.Gold{
+background-color: gold;
+color: black;
+font-weight: bold;
+padding-top: 9px;
+padding-bottom: 2px;
+padding-left: 10px;
+padding-right: 10px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Gold:hover{
+   background-color: rgb(255, 204, 0);
+}
+.right-setting{
+   font-size: 20px;
+   color: white;
+   margin-right: 13px;
+}
+.display-innline-block{
+   display: inline-block;
+}
+.Thied-Box{
+   max-width: 1800px;
+   height: 90px;
+   margin: 0 auto;
+   background-color: #000090;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Japn-Anime{
+   font-weight: bold;
+   color: gold;
+   font-size: 19px;
+   margin-right: 10px;
+ 
+}
+.Free{
+   width: 100px;
+   height: auto;
+  
+  
+}
+.button-Tooggle{
+   color: white;
+   font-size: 24px;
+  padding: 5px;
+}
+.free{
+width: 100%;
+height: 50px;
+
+display: flex;
+align-items: center;
+}
+.mode{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: gold;
+
+}
+.mode1{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: white;
+
+}
+.Count-number{
+   width: 750px;
+   height: 30px;
+   margin: 0 auto;
+}
+.Countnumber{
+   padding: 3px 8px;
+   padding-top: 2px;
+   border: 1px solid #337AB7;
+   color: white;
+   font-size: 15px;
+   user-select: none;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Countnumber:hover{
+   background-color: #337AB7;
+}
+.is{
+   color: white;
+}
+.Next{
+   background-color: #0000DA;
+}
+.flag{
+   color: white;
+ font-size: 14px;
+
+}
+.flag-container{
+
+   position: absolute;
+   right: 38px;
+}
+.flag:hover{
+   color: yellow;
+}
+.Main-container{
+max-width: 350px;
+height: 660px;
+overflow: hidden;
+display: inline-block;
+margin-left: 12px;
+margin-bottom: 20px;
+
+}
+.Main{
+   max-width: 1850px;
+   height: auto;
+   margin: 0 auto;
+   margin-top: 20px;
+   
+  
+}
+.Main-video{
+   width: 350px;
+   height: 330pxpx;
+}
+.Video-Name{
+
+color: #1870FE;
+display: block;
+}
+.Text{
+   display: block;
+   color: white;
+  
+}
+
+.min{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   color: #1870FE;
+}
+.view{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+.eye{
+   margin-left: 10px;
+}
+.star{
+   margin-right: 3px;
+   color: gold;
+}
+.rating{
+  
+}
+.rating-result{
+   color: gold;
+}
+.heart{
+   color: red;
+   margin-right: 3px;
+}
+.Count-number2{
+   width: 750px;
+   margin: 0 auto;
+   margin-bottom: 20px;
+  
+}
+.footer{
+   width: 100%;
+   height: 440px;
+   background-color: #000048;
+}
+.Footer-child{
+width: 50%;
+height: auto;
+margin: 0 auto;
+color: white;
+font-size: 20px;
+text-align: center;
+}
+.footer-img{
+   width: 100%;
+   height: 300px;
+}
+.footer-img-width{
+   width: 600px;
+   height: auto;
+   margin: 0 auto;
+}
+.black-bar{
+   width: 100%;
+   height: 30px;
+   background-color: black;
+}
+.hub{
+   color: white;
+font-size: 15px;
+text-align: center;
+}
+.dp{
+   display: block;
+}
+.mode-container{
+   width: 700px;
+   height: auto;
+}
+.free{
+min-width: 550px;
+
+}
+@media(max-width:1680px) {
+   .Top-mid-container{
+      display: none;
+   }
+.Main{
+   width: 1500px;
+   margin: 0 auto;
+padding-top: 20px;
+   
+  
+}
+
+}
+@media(max-width:1488px) {
+   .Main{
+      width: 1100px;
+          margin: 0 auto;
+     
+   }
+
+}
+
+@media(max-width:1132px) {
+   .Main{
+      width: 800px;
+          margin: 0 auto;
+     
+   }
+
+}@media(max-width:1087px) {
+  .Top-container-right{
+   display: none;
+  }
+
+}
+@media(max-width:967px) {
+   .Top-container-right{
+    display: none;
+   }
+ .second-right{
+   display: none;
+ }
+ .Second-Top-bar{
+   display: none;
+ }
+.flag-container{
+   display: none;
+}
+.footer{
+   min-width: 800px;
+  
+}
+.footer-img-width{
+   margin: 30px;
+}
+.Footer-child{
+   margin: 0px;
+   margin-left: 120px;
+}
+.footer{
+   width: 100%;
+   height: 600px;
+   background-color: #000048;
+}
+ }
+
+  
